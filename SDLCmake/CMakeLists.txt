@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.0)
-project(BoidsSDL)
+cmake_minimum_required(VERSION 2.4)
+project(SDLCmakeDemo)
 
 #Note for Windows: find_package doesn't work well as we don't have lib directories, set an environment variable called SDL2 that has the path to your SDL directory.
 
